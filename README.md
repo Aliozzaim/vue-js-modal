@@ -1,4 +1,4 @@
-<p align="center">
+
 # Vue.js modal
 
 Easy to use, highly customizable Vue.js modal library.
